@@ -18,3 +18,6 @@
 - flask-cors (a.k.a flask\_cors)
 - flask
 
+### Human Resources
+- 尹奕航 (Programming, Game Design)
+- 张旭 (Testing on May 22, in Material Physics Lab)
