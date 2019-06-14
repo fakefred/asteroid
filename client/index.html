@@ -1,0 +1,14 @@
+<link rel="stylesheet" href="index.css" />
+<div id="stats">
+    <b id="distance">0000</b> km<br />
+    FUEL <b id="fuel">100</b> %
+</div>
+<canvas hidden id="targets"></canvas>
+<canvas hidden id="player"></canvas>
+<div id="controls">
+    <button onclick="startGame()" id="start" accesskey="s">START</button>
+    <button onclick="endGame()" id="end" accesskey="q">FORCE END</button>
+</div>
+<script src="params.js"></script>
+<script src="axios.min.js"></script>
+<script src="index.js"></script>

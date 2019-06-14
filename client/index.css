@@ -1,0 +1,47 @@
+#targets, #player {
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+
+#stats {
+    position: absolute;
+    right: 40px;
+    top: 10px;
+    font-size: 2em;
+}
+
+body {
+    background: #000;
+    color: white;
+    font-family: sans-serif;
+    align-content: center;
+}
+
+/* #start {
+    position: relative;
+    width: 780px;
+    height: 400px;
+    left: 390px;
+    top: 400px;
+    background: #555;
+    color: white;
+    font-size: 10em;
+}
+
+#over {
+    position: relative;
+    width: 780px;
+    height: 400px;
+    left: 0px;
+    top: 50px;
+    background: #555;
+    color: white;
+    font-size: 10em;
+} */
+
+#controls {
+    position: absolute;
+    right: 20px;
+    bottom: 20px;
+}
